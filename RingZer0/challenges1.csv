@@ -1,0 +1,420 @@
+category_id,category_title,challenge_id,challenge_title,challenge_points,challenge_solves,overarching_category
+1,SQL Injection,1,Most basic SQLi pattern.,1,10789,Web
+1,SQL Injection,2,ACL rulezzz the world.,2,5323,Web
+1,SQL Injection,3,Login portal 1,2,4211,Web
+1,SQL Injection,171,Random Login Form,2,2581,Web
+1,SQL Injection,21,Po po po po postgresql,2,2632,Web
+1,SQL Injection,4,Login portal 2,3,1060,Web
+1,SQL Injection,189,0 Day Store,3,169,Web
+1,SQL Injection,52,Don't mess with Noemie; she hates admin!,3,1179,Web
+1,SQL Injection,40,What's the definition of NULL,3,994,Web
+1,SQL Injection,37,Quote of the day,4,796,Web
+1,SQL Injection,74,No more hacking for me!,4,467,Web
+1,SQL Injection,39,Thinking outside the box is the key,4,672,Web
+1,SQL Injection,291,Don't Stumble in the Process,4,72,Web
+1,SQL Injection,305,Brain Teaser 1,4,45,Web
+1,SQL Injection,38,Quote of the day reloaded,5,346,Web
+1,SQL Injection,19,When it's lite it's not necessarily easy,6,309,Web
+1,SQL Injection,5,Login portal 3,6,373,Web
+1,SQL Injection,158,Hot Single Mom,6,241,Web
+1,SQL Injection,306,Brain Teaser 2,7,25,Web
+1,SQL Injection,242,Internet As A Service,7,209,Web
+1,SQL Injection,78,Size DOES matter,7,152,Web
+1,SQL Injection,77,/etc/passwd,7,173,Web
+1,SQL Injection,62,Groups of hacker,7,174,Web
+1,SQL Injection,6,Login portal 4,7,251,Web
+1,SQL Injection,123,The useless search tool,8,131,Web
+1,SQL Injection,7,Login portal 5,8,84,Web
+1,SQL Injection,271,stackoverflow.com lied to me... again,9,90,Web
+1,SQL Injection,304,Doctor Who ?,9,15,Web
+1,SQL Injection,8,Login portal 6,10,69,Web
+1,SQL Injection,273,SQHell,11,17,Web
+1,SQL Injection,292,Don't Stumble in the Process Reloaded,12,12,Web
+1,SQL Injection,60,!Mysql + Brain fart,13,36,Web
+2,Reverse Engineering,11,Time to learn x86 ASM & gdb,2,2478,Rev
+2,Reverse Engineering,311,See No Evil - Part 1,2,233,Rev
+2,Reverse Engineering,110,Can you see through the star,2,1433,Rev
+2,Reverse Engineering,346,Gift as a Service Part 2,2,60,Rev
+2,Reverse Engineering,312,See No Evil - Part 2,3,170,Rev
+2,Reverse Engineering,313,See No Evil - Part 3,3,157,Rev
+2,Reverse Engineering,270,Intro To Sparc,3,232,Rev
+2,Reverse Engineering,72,Kernel introduction,3,297,Rev
+2,Reverse Engineering,176,Heap allocator,3,311,Rev
+2,Reverse Engineering,9,Crack Me 1,3,842,Rev
+2,Reverse Engineering,53,Introduction to MIPS,3,364,Rev
+2,Reverse Engineering,36,I never forget the Nintendo 64,3,750,Rev
+2,Reverse Engineering,28,Windows x86 reversing is cool,3,820,Rev
+2,Reverse Engineering,266,Old School,4,99,Rev
+2,Reverse Engineering,175,Power to the people,4,87,Rev
+2,Reverse Engineering,161,Let's take a detour,4,108,Rev
+2,Reverse Engineering,238,Altera?,4,82,Rev
+2,Reverse Engineering,237,ASM Lovers,4,104,Rev
+2,Reverse Engineering,111,Wrong byte!,4,300,Rev
+2,Reverse Engineering,314,See No Evil - Part 4,4,119,Rev
+2,Reverse Engineering,315,See No Evil - Part 5,4,111,Rev
+2,Reverse Engineering,320,I love tea!,4,41,Rev
+2,Reverse Engineering,335,Space Invaders,4,29,Rev
+2,Reverse Engineering,54,Introduction to ARM,4,393,Rev
+2,Reverse Engineering,33,Windows API for the win,4,368,Rev
+2,Reverse Engineering,278,WASM Part 1,5,91,Rev
+2,Reverse Engineering,276,The MI7 password prompt,5,85,Rev
+2,Reverse Engineering,248,Phenix Golgoth,5,65,Rev
+2,Reverse Engineering,246,Can I speak with the kernel?,5,96,Rev
+2,Reverse Engineering,347,Reindeer Game,5,18,Rev
+2,Reverse Engineering,64,Back to our roots,5,130,Rev
+2,Reverse Engineering,190,Virtual World,5,87,Rev
+2,Reverse Engineering,178,Smart enough?,5,134,Rev
+2,Reverse Engineering,170,Pwndr3 Authenticator,5,70,Rev
+2,Reverse Engineering,141,RingZer0 Authenticator,5,265,Rev
+2,Reverse Engineering,68,Need a client,6,81,Rev
+2,Reverse Engineering,108,I Think I forgot to take out the garbage!,6,30,Rev
+2,Reverse Engineering,144,Flag stealer,6,87,Rev
+2,Reverse Engineering,145,Update Manager,6,69,Rev
+2,Reverse Engineering,179,Buggy Bunny,7,16,Rev
+2,Reverse Engineering,330,Cappin',7,6,Rev
+2,Reverse Engineering,264,The supreme bash,7,30,Rev
+2,Reverse Engineering,177,Armed and ready,7,30,Rev
+2,Reverse Engineering,101,SOS Lib,7,40,Rev
+2,Reverse Engineering,210,You're not welcome,8,61,Rev
+2,Reverse Engineering,279,WASM Part 2,8,14,Rev
+2,Reverse Engineering,174,License to kill,8,5,Rev
+2,Reverse Engineering,236,Rebate As A Service,8,48,Rev
+2,Reverse Engineering,302,The Matrix,9,15,Rev
+2,Reverse Engineering,157,Keygen time again,10,35,Rev
+2,Reverse Engineering,61,Trolling the troll,10,34,Rev
+2,Reverse Engineering,107,The unknown challenge,11,18,Rev
+2,Reverse Engineering,280,WASM Part 3,12,7,Rev
+2,Reverse Engineering,239,You're not welcome again!,12,22,Rev
+2,Reverse Engineering,249,The oracle,13,19,Rev
+2,Reverse Engineering,277,Mars Reloaded,18,13,Rev
+3,Steganography,70,Victor you're hidding me something,1,3144,Forensics
+3,Steganography,118,You're lost? Use the map,1,2231,Forensics
+3,Steganography,18,Look inside the house,2,1484,Forensics
+3,Steganography,22,A ghost sound,2,1094,Forensics
+3,Steganography,71,Victor reloaded,2,1413,Forensics
+3,Steganography,265,The Sloth,2,204,Forensics
+3,Steganography,122,Brainsick,2,1058,Forensics
+3,Steganography,129,Missing Pieces,2,926,Forensics
+3,Steganography,188,Hidden In Plain Sight,2,780,Forensics
+3,Steganography,194,Pixel Everywhere,2,295,Forensics
+3,Steganography,244,The vestige of dial-up Internet,2,316,Forensics
+3,Steganography,231,I'm Goronyo Babad Nigerian prince,2,663,Forensics
+3,Steganography,208,5 beautiful colors,3,66,Forensics
+3,Steganography,296,Crazy Cat Lady,3,127,Forensics
+3,Steganography,215,Love Letter,3,289,Forensics
+3,Steganography,10,Can you see through the matrix!,3,165,Forensics
+3,Steganography,106,Your old friend Orloge Simard,3,671,Forensics
+3,Steganography,245,Can you see through the matrix reloaded!,4,32,Forensics
+3,Steganography,268,Stay Classy!,4,19,Forensics
+3,Steganography,293,Not just 64,4,18,Forensics
+3,Steganography,316,Even the Odds,4,20,Forensics
+3,Steganography,69,Walk the line!,5,180,Forensics
+3,Steganography,299,Stop the violence,5,24,Forensics
+3,Steganography,323,Stop the violence 2,5,10,Forensics
+3,Steganography,349,Hidden out of sight,5,16,Forensics
+4,Forensics,20,I made a dd of Agent Smith usb key,1,3922,Forensics
+4,Forensics,243,Who I am part 2,1,1077,Forensics
+4,Forensics,140,Meat Loaf,2,486,Forensics
+4,Forensics,160,Who I am?,2,1350,Forensics
+4,Forensics,103,Dr. Pouce,2,2672,Forensics
+4,Forensics,92,Attention Dinosaure Survive,2,1636,Forensics
+4,Forensics,217,"The good, the bad and the ugly",2,234,Forensics
+4,Forensics,86,1 / 3 Do not waste the environment,2,1133,Forensics
+4,Forensics,65,Hide my ass in my home!,2,1823,Forensics
+4,Forensics,44,Hey Chuck where is the flag?,2,1808,Forensics
+4,Forensics,252,I love cat,2,957,Forensics
+4,Forensics,84,The words flew but writing remains,3,189,Forensics
+4,Forensics,87,2 / 3 Did you see my desktop?,3,921,Forensics
+4,Forensics,59,Are you Twisted Insane?,3,34,Forensics
+4,Forensics,112,Someone steal my flag!,3,504,Forensics
+4,Forensics,192,802.1X Part 1,4,84,Forensics
+4,Forensics,269,R.I.P MsPaint,4,121,Forensics
+4,Forensics,88,3 / 3 Suspicious account password?,4,751,Forensics
+4,Forensics,35,Poor internet connection,4,434,Forensics
+4,Forensics,24,Agent Smith reloaded,4,301,Forensics
+4,Forensics,150,Someone steal my flag again,5,201,Forensics
+4,Forensics,163,We got breached,5,266,Forensics
+4,Forensics,115,Ping pong,5,108,Forensics
+4,Forensics,12,Spy my girl,5,243,Forensics
+4,Forensics,116,Russian Crypto Roulette,6,83,Forensics
+4,Forensics,164,We got breached again,6,178,Forensics
+4,Forensics,117,Really Depressed Protocol,7,90,Forensics
+4,Forensics,193,802.1X Part 2,8,55,Forensics
+5,Coding Challenges,13,Hash me please,2,3758,Misc
+5,Coding Challenges,172,Ask your grandpa!,2,1316,Misc
+5,Coding Challenges,14,Hash me reloaded,3,2015,Misc
+5,Coding Challenges,32,I hate mathematics,3,2135,Misc
+5,Coding Challenges,173,Ask your grandpa again!,4,461,Misc
+5,Coding Challenges,56,Hash breaker,4,1637,Misc
+5,Coding Challenges,15,I saw a little elf,4,600,Misc
+5,Coding Challenges,57,Hash breaker reloaded,5,945,Misc
+5,Coding Challenges,121,Execute me if you can,5,459,Misc
+5,Coding Challenges,17,Read me if you can,6,505,Misc
+5,Coding Challenges,119,Ascii Art,6,754,Misc
+5,Coding Challenges,125,Execute me if you can again,6,236,Misc
+5,Coding Challenges,159,Hash breaker reloaded again,6,312,Misc
+5,Coding Challenges,16,Xor me if you can,6,488,Misc
+5,Coding Challenges,126,Find the right word,7,405,Misc
+5,Coding Challenges,130,Number game,7,378,Misc
+5,Coding Challenges,143,Classic Sudoku,7,333,Misc
+6,Cryptography,25,Some martian message,1,8163,Crypt
+6,Cryptography,274,You're Drunk!,1,2895,Crypt
+6,Cryptography,49,File recovery,1,3650,Crypt
+6,Cryptography,156,Fashion Victim,2,706,Crypt
+6,Cryptography,63,Martian message part 2,2,3342,Crypt
+6,Cryptography,50,Public key recovery,2,1769,Crypt
+6,Cryptography,51,I Lost my password,3,1323,Crypt
+6,Cryptography,300,Let's Play Scrabble!,3,88,Crypt
+6,Cryptography,114,Hangovers and more: Bacon ,3,623,Crypt
+6,Cryptography,26,Martian message part 3,3,1344,Crypt
+6,Cryptography,23,Can you understand this sentence?,3,779,Crypt
+6,Cryptography,29,Encrypted Zip,4,668,Crypt
+6,Cryptography,66,Crypto over the network,4,154,Crypt
+6,Cryptography,154,Crypto Object,4,221,Crypt
+6,Cryptography,275,Crypto Leak,4,66,Crypt
+6,Cryptography,336,SSO Service,4,26,Crypt
+6,Cryptography,55,Is it a secure string?,5,299,Crypt
+6,Cryptography,301,Let's Play Scrabble! Part 2,5,36,Crypt
+6,Cryptography,294,Jabber,5,12,Crypt
+6,Cryptography,261,Free Flag Encrypter,5,22,Crypt
+6,Cryptography,339,Guess the number,6,35,Crypt
+6,Cryptography,214,TotalSecure Message Encrypter,6,102,Crypt
+6,Cryptography,155,Welcome to the asylum,6,61,Crypt
+6,Cryptography,73,Pattern is the key,6,48,Crypt
+6,Cryptography,331,Malcolm,7,29,Crypt
+6,Cryptography,295,Jabber Part 2,7,10,Crypt
+6,Cryptography,319,Homemade craptography #2,7,14,Crypt
+6,Cryptography,282,Homemade Craptography,8,12,Crypt
+6,Cryptography,290,Mars Log,8,13,Crypt
+6,Cryptography,105,Crypto is not good as you think,8,184,Crypt
+6,Cryptography,344,Find your path,9,18,Crypt
+6,Cryptography,247,Rusty RSA message signing service,9,17,Crypt
+6,Cryptography,233,Spies,9,36,Crypt
+6,Cryptography,310,Polly Wants a Cracker,10,7,Crypt
+6,Cryptography,216,TotalSecure Message Encrypter V2,10,21,Crypt
+6,Cryptography,267,Unicorn As A Service,11,11,Crypt
+7,JavaScript,27,Client side validation is bad!,1,7787,Web
+7,JavaScript,30,Hashing is more secure,1,6689,Web
+7,JavaScript,31,Then obfuscation is more secure,1,5145,Web
+7,JavaScript,34,Why not?,2,3981,Web
+7,JavaScript,58,Valid key required,2,1088,Web
+7,JavaScript,67,Most Secure Crypto Algo,2,1865,Web
+7,JavaScript,46,Why not be more secure?,5,694,Web
+7,JavaScript,213,WTF Lol!,6,335,Web
+7,JavaScript,281,Interstellar PhoneBook,6,44,Web
+7,JavaScript,211,Beauty and the beast,7,45,Web
+8,Web,42,Words mean something?,1,3695,Web
+8,Web,212,Big Brother is watching,1,4941,Web
+8,Web,297,Hacking skill are optional,1,405,Web
+8,Web,75,Looking for password file,1,5094,Web
+8,Web,48,Area 51,1,3215,Web
+8,Web,43,Headache,1,4106,Web
+8,Web,45,Security thru obscurity!,2,1273,Web
+8,Web,254,PHP Fairy,2,1279,Web
+8,Web,93,XSS Challenge 2,2,570,Web
+8,Web,96,XSS Challenge 1,2,570,Web
+8,Web,104,Admin Portal,2,1310,Web
+8,Web,113,Password reset,2,1071,Web
+8,Web,47,Malicious upload,2,703,Web
+8,Web,138,Captcha I,2,614,Web
+8,Web,142,Unreadable captcha,2,428,Web
+8,Web,120,Password reset reloaded,3,397,Web
+8,Web,240,PHP feature or 0day?,3,493,Web
+8,Web,41,Serial killer!,3,514,Web
+8,Web,307,JWT pitfall 1,3,75,Web
+8,Web,153,REST in peace,3,233,Web
+8,Web,324,Captcha IV,3,48,Web
+8,Web,326,NeuroSoft: Observation Unit Center,3,79,Web
+8,Web,327,Beyond Reality Part 1,3,62,Web
+8,Web,95,XSS Challenge 3,3,226,Web
+8,Web,94,XSS Challenge 4,3,230,Web
+8,Web,85,Facebook will never forget this one,3,248,Web
+8,Web,337,UploadStar,3,53,Web
+8,Web,345,Gift as a Service Part 1,3,77,Web
+8,Web,76,Looking for the flag?,3,818,Web
+8,Web,289,Captcha III,4,69,Web
+8,Web,185,Propaganda mail,4,278,Web
+8,Web,139,Captcha II,4,163,Web
+8,Web,209,Read the unreadable,5,132,Web
+8,Web,187,Freedom Firewall,5,139,Web
+8,Web,255,Timesheet As a Service,5,41,Web
+8,Web,256,Password Reset As a Service,5,66,Web
+8,Web,338,UploadStar Reloaded,5,33,Web
+8,Web,298,Super Lottery,5,96,Web
+8,Web,328,Beyond Reality Part 2,5,40,Web
+8,Web,317,The archive,5,26,Web
+8,Web,318,Lost API,5,45,Web
+8,Web,241,PHP feature or 0day reloaded?,6,85,Web
+8,Web,79,I hate this one,6,243,Web
+8,Web,100,XSS Challenge 5,6,144,Web
+8,Web,169,Serial killer part 2,6,55,Web
+8,Web,186,Orao's factory,6,131,Web
+8,Web,322,Ping It!,7,36,Web
+8,Web,321,Super Lottery Reloaded,7,39,Web
+8,Web,83,XPATH of hell!,7,152,Web
+8,Web,151,Secure Mail,8,88,Web
+8,Web,184,Looking for god in your life?,8,68,Web
+8,Web,353,Lotto 8/33,11,12,Web
+9,Pwnage Linux,80,Level1 Pwnage Linux Level Up,1,777,Pwn
+9,Pwnage Linux,81,Level2 Pwnage Linux Level Up,2,474,Pwn
+9,Pwnage Linux,181,Remote Auth,2,125,Pwn
+9,Pwnage Linux,82,Level3 Pwnage Linux Level Up,3,344,Pwn
+9,Pwnage Linux,325,The Vault,3,75,Pwn
+9,Pwnage Linux,165,Level1 Pwnage Linux x86_64,3,219,Pwn
+9,Pwnage Linux,109,Can you get the service password,4,139,Pwn
+9,Pwnage Linux,162,Sometime there is no buffer overflow,4,86,Pwn
+9,Pwnage Linux,166,Level2 Pwnage Linux x86_64,4,78,Pwn
+9,Pwnage Linux,180,Friendly race,5,28,Pwn
+9,Pwnage Linux,102,Level4 Pwnage Linux Level Up,5,149,Pwn
+9,Pwnage Linux,182,RPCFTW!,6,42,Pwn
+9,Pwnage Linux,251,Jack the heaper,6,25,Pwn
+9,Pwnage Linux,168,Level4 Pwnage Linux x86_64,7,45,Pwn
+9,Pwnage Linux,167,Level3 Pwnage Linux x86_64,7,74,Pwn
+9,Pwnage Linux,183,Just another useless service,8,42,Pwn
+9,Pwnage Linux,191,Take over the Virtual World,8,37,Pwn
+9,Pwnage Linux,232,Base64 As A Service,8,37,Pwn
+9,Pwnage Linux,329,All You Need Is a Client,8,14,Pwn
+9,Pwnage Linux,234,Base64 As A Service Reloaded,9,30,Pwn
+9,Pwnage Linux,235,Delivery As A Service,10,19,Pwn
+10,SysAdmin Linux,89,SysAdmin Part 1,1,3023,Misc
+10,SysAdmin Linux,148,SysAdmin Part 2,1,2212,Misc
+10,SysAdmin Linux,152,SysAdmin Part 3,1,1448,Misc
+10,SysAdmin Linux,146,SysAdmin Part 4,2,1302,Misc
+10,SysAdmin Linux,149,SysAdmin Part 5,2,887,Misc
+10,SysAdmin Linux,90,SysAdmin Part 6,3,830,Misc
+10,SysAdmin Linux,91,SysAdmin Part 7,4,681,Misc
+10,SysAdmin Linux,147,SysAdmin Part 8,4,720,Misc
+11,Jail Escaping,218,Bash Jail 1,1,2748,Pwn
+11,Jail Escaping,223,PHP Jail 1,1,650,Pwn
+11,Jail Escaping,228,C Jail 1,1,466,Pwn
+11,Jail Escaping,219,Bash Jail 2,2,1746,Pwn
+11,Jail Escaping,224,PHP Jail 2,2,445,Pwn
+11,Jail Escaping,229,C Jail 2,2,320,Pwn
+11,Jail Escaping,97,PyJail 1,3,269,Pwn
+11,Jail Escaping,220,Bash Jail 3,3,1005,Pwn
+11,Jail Escaping,230,C Jail 3,3,260,Pwn
+11,Jail Escaping,225,PHP Jail 3,3,325,Pwn
+11,Jail Escaping,221,Bash Jail 4,4,546,Pwn
+11,Jail Escaping,226,PHP Jail 4,4,259,Pwn
+11,Jail Escaping,98,PyJail 2,5,146,Pwn
+11,Jail Escaping,257,C Jail 4,5,28,Pwn
+11,Jail Escaping,227,PHP Jail 5,6,224,Pwn
+11,Jail Escaping,222,Bash Jail 5,6,241,Pwn
+11,Jail Escaping,99,PyJail 3,6,54,Pwn
+11,Jail Escaping,258,C Jail 5,7,19,Pwn
+11,Jail Escaping,253,Bash Jail 6,8,37,Pwn
+11,Jail Escaping,260,Bash Jail 7,12,20,Pwn
+11,Jail Escaping,259,C Jail 6,14,14,Pwn
+12,Shellcoding,127,Basics of Linux x64 shellcoding,2,585,Pwn
+12,Shellcoding,128,Linux x64 shellcoding level 2,4,293,Pwn
+12,Shellcoding,131,Linux x64 shellcoding level 3,6,230,Pwn
+12,Shellcoding,132,Linux x64 shellcoding level 4,8,185,Pwn
+12,Shellcoding,133,Linux x64 shellcoding level 5,10,136,Pwn
+12,Shellcoding,134,Linux x64 shellcoding level 6,12,118,Pwn
+12,Shellcoding,135,Linux x64 shellcoding level 7,14,68,Pwn
+13,Malware Analysis,196,Capture 1 Part 2,1,261,Pwn
+13,Malware Analysis,199,Capture 1 Part 3,1,286,Pwn
+13,Malware Analysis,202,Capture 2 Part 1,1,70,Pwn
+13,Malware Analysis,203,Capture 2 Part 2,1,140,Pwn
+13,Malware Analysis,204,Capture 2 Part 3,1,141,Pwn
+13,Malware Analysis,195,Capture 1 Part 1,1,772,Pwn
+13,Malware Analysis,341,This malware excels Part 2,1,49,Pwn
+13,Malware Analysis,201,Capture 1 Part 4,2,56,Pwn
+13,Malware Analysis,342,This malware excels Part 3,2,33,Pwn
+13,Malware Analysis,340,This malware excels Part 1,2,50,Pwn
+13,Malware Analysis,197,Capture 1 Part 5,3,83,Pwn
+13,Malware Analysis,198,Capture 1 Part 6,3,186,Pwn
+13,Malware Analysis,200,Capture 1 Part 7,3,50,Pwn
+13,Malware Analysis,205,Capture 2 Part 4,3,138,Pwn
+13,Malware Analysis,206,Capture 2 Part 5,4,46,Pwn
+13,Malware Analysis,263,RAO democracy,4,65,Pwn
+13,Malware Analysis,262,APT 1337,4,56,Pwn
+13,Malware Analysis,250,WebShell of Hell,5,22,Pwn
+13,Malware Analysis,343,This malware excels Part 4,5,19,Pwn
+13,Malware Analysis,207,Capture 2 Part 6,7,21,Pwn
+13,Malware Analysis,272,Just Another MBR Ransomware,8,22,Pwn
+13,Malware Analysis,348,Evil X,8,10,Pwn
+14,The NC8 Reverse Engineering Track,284,NC8 MAINFRAME MANAGEMENT INTERFACE Part 2 Flag 1,3,56,Rev
+14,The NC8 Reverse Engineering Track,287,NC8 MAINFRAME MANAGEMENT INTERFACE Part 3,5,42,Rev
+14,The NC8 Reverse Engineering Track,283,NC8 MAINFRAME MANAGEMENT INTERFACE Part 1,7,83,Rev
+14,The NC8 Reverse Engineering Track,285,NC8 MAINFRAME MANAGEMENT INTERFACE Part 2 Flag 2,7,53,Rev
+14,The NC8 Reverse Engineering Track,286,NC8 MAINFRAME MANAGEMENT INTERFACE Part 2 Flag 3,10,52,Rev
+14,The NC8 Reverse Engineering Track,288,NC8 MAINFRAME MANAGEMENT INTERFACE Part 4,15,39,Rev
+15,Exotic Data Storage,124,Just another login form,2,1597,Forensics
+15,Exotic Data Storage,308,DON'T login as admin,2,56,Forensics
+15,Exotic Data Storage,309,I forgot my password,3,49,Forensics
+15,Exotic Data Storage,303,Inspiration,6,50,Forensics
+16,Software Defined Radio,136,SigID Level 1,1,1162,Misc
+16,Software Defined Radio,332,You Turn Me On And Off,3,33,Misc
+16,Software Defined Radio,333,Let's Get Scwhifty!,5,27,Misc
+16,Software Defined Radio,137,SigID Level 2,6,13,Misc
+16,Software Defined Radio,334,"Don't flip out, Thomas!",7,25,Misc
+17,NorthSec 2021,350,Knight Portal (1/3),2,109,Special
+17,NorthSec 2021,351,Knight Portal (2/3),2,78,Special
+17,NorthSec 2021,357,Farmer Search (2/3),2,39,Special
+17,NorthSec 2021,390,The Cabal,2,36,Special
+17,NorthSec 2021,354,Crapto Century,3,72,Special
+17,NorthSec 2021,356,Farmer Search (1/3),3,49,Special
+17,NorthSec 2021,391,Scammed again,3,5,Special
+17,NorthSec 2021,355,Reading Through the Cloud,4,46,Special
+17,NorthSec 2021,358,Farmer Search (3/3),4,28,Special
+17,NorthSec 2021,352,Knight Portal (3/3),5,29,Special
+18,NorthSec 2023,360,Ask G.O.D (02/18),1,16,Special
+18,NorthSec 2023,385,We Call it Spring (2/4),1,10,Special
+18,NorthSec 2023,364,Ask G.O.D (06/18),1,29,Special
+18,NorthSec 2023,365,Ask G.O.D (07/18),1,25,Special
+18,NorthSec 2023,382,Orchestry (1/3),1,10,Special
+18,NorthSec 2023,381,We Call it Spring (1/4),1,10,Special
+18,NorthSec 2023,371,Ask G.O.D (13/18),1,24,Special
+18,NorthSec 2023,373,Ask G.O.D (15/18),1,25,Special
+18,NorthSec 2023,372,Ask G.O.D (14/18),2,25,Special
+18,NorthSec 2023,387,We Call it Spring (4/4),2,3,Special
+18,NorthSec 2023,384,Orchestry (3/3),2,3,Special
+18,NorthSec 2023,376,Ask G.O.D (18/18),2,16,Special
+18,NorthSec 2023,375,Ask G.O.D (17/18),2,15,Special
+18,NorthSec 2023,374,Ask G.O.D (16/18),2,15,Special
+18,NorthSec 2023,370,Ask G.O.D (12/18),2,21,Special
+18,NorthSec 2023,369,Ask G.O.D (11/18),2,22,Special
+18,NorthSec 2023,368,Ask G.O.D (10/18),2,22,Special
+18,NorthSec 2023,361,Ask G.O.D (03/18),2,15,Special
+18,NorthSec 2023,359,Ask G.O.D (01/18),3,30,Special
+18,NorthSec 2023,366,Ask G.O.D (08/18),3,15,Special
+18,NorthSec 2023,363,Ask G.O.D (05/18),3,14,Special
+18,NorthSec 2023,383,Orchestry (2/3),4,4,Special
+18,NorthSec 2023,362,Ask G.O.D (04/18),5,15,Special
+18,NorthSec 2023,386,We Call it Spring (3/4),5,3,Special
+18,NorthSec 2023,388,Corporate Cafeteria Menu,6,7,Special
+18,NorthSec 2023,367,Ask G.O.D (09/18),7,11,Special
+18,NorthSec 2023,377,The G.O.D Archive,12,4,Special
+19,NorthSec 2022,378,Email Template (1/3),2,31,Special
+19,NorthSec 2022,380,Email Template (3/3),4,6,Special
+19,NorthSec 2022,379,Email Template (2/3),5,13,Special
+19,NorthSec 2022,389,Stock Options Portal,6,5,Special
+20,NorthSec 2024,392,Appendix System,2,22,Special
+20,NorthSec 2024,395,Photographic Memory System (1/2),3,5,Special
+20,NorthSec 2024,396,Photographic Memory System (2/2),3,5,Special
+20,NorthSec 2024,397,Integumentary System (1/2),3,0,Special
+20,NorthSec 2024,393,Anti-Allergens Immune System,4,5,Special
+20,NorthSec 2024,394,Linguistic Memory System,5,3,Special
+20,NorthSec 2024,398,Integumentary System (2/2),5,0,Special
+21,NorthSec 2025,404,Motor Sensors - Agent 1 (1/3),1,0,Special
+21,NorthSec 2025,416,Disabling the camera operator (1/4),1,3,Special
+21,NorthSec 2025,402,LED Display Controller (2/3),2,1,Special
+21,NorthSec 2025,406,Motor Sensors - Agent 1 (3/3),2,0,Special
+21,NorthSec 2025,408,Motor Sensors - Agent 2 (2/3),2,0,Special
+21,NorthSec 2025,413,Motor Sensors - Controller (4/4),2,0,Special
+21,NorthSec 2025,417,Disabling the camera operator (2/4),3,2,Special
+21,NorthSec 2025,403,LED Display Controller (3/3),3,1,Special
+21,NorthSec 2025,409,Motor Sensors - Agent 2 (3/3),3,0,Special
+21,NorthSec 2025,410,Motor Sensors - Controller (1/4),3,0,Special
+21,NorthSec 2025,411,Motor Sensors - Controller (2/4),3,0,Special
+21,NorthSec 2025,419,Disabling the camera operator (4/4),4,0,Special
+21,NorthSec 2025,418,Disabling the camera operator (3/4),4,0,Special
+21,NorthSec 2025,415,Motor Sensors - Agent 3 (2/2),4,0,Special
+21,NorthSec 2025,407,Motor Sensors - Agent 2 (1/3),4,0,Special
+21,NorthSec 2025,401,LED Display Controller (1/3),4,1,Special
+21,NorthSec 2025,400,Passenger Manifesto (2/2),4,0,Special
+21,NorthSec 2025,414,Motor Sensors - Agent 3 (1/2),5,0,Special
+21,NorthSec 2025,405,Motor Sensors - Agent 1 (2/3),5,0,Special
+21,NorthSec 2025,399,Passenger Manifesto (1/2),5,0,Special
+21,NorthSec 2025,412,Motor Sensors - Controller (3/4),6,0,Special
