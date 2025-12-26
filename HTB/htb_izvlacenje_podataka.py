@@ -188,26 +188,26 @@ async def main():
         # for team in tqdm(teams, desc="Teams → Members"):
         #     members = await fetch_team_members(http, str(team.get("id")))
         #     team_members.extend(members)
-        team_members = pd.read_json(RAW_DIR / "team_members.jsonl", lines=True).to_dict(orient="records")
+        team_members = pd.read_json(RAW_DIR / "top_10_teams.json", lines=True).to_dict(orient="records")
         # (RAW_DIR / "team_members.jsonl").write_text('\n'.join(json.dumps(m) for m in team_members))
         # save_parquet(team_members, PARQUET_DIR / "team_members.parquet")
         
         # 3) User Profiles with checkpointing
         checkpoint_file = CHECKPOINT_DIR / "fetched_profiles.txt"
-        fetched_already = set(checkpoint_file.read_text().splitlines()) if checkpoint_file.exists() else set()
+        # fetched_already = set(checkpoint_file.read_text().splitlines()) if checkpoint_file.exists() else set()
 
         profiles = []
         for user in tqdm(team_members, desc="Users → Profiles"):
             if user.get("public") == 1:
                 uid = str(user.get("id"))
-                if uid in fetched_already:
-                    continue
+                print(uid)
+                # if uid in fetched_already:
+                #     continue
                 profile = await fetch_user_profile(http, uid)
                 if profile:
                     profiles.append(profile)
                     with checkpoint_file.open("a") as cp:
                         cp.write(uid + "\n")
-
         (RAW_DIR / "user_profiles.jsonl").write_text('\n'.join(json.dumps(p) for p in profiles))
         save_parquet(profiles, PARQUET_DIR / "user_profiles.parquet")
 

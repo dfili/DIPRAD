@@ -1490,3 +1490,210 @@
 2025-12-01 15:05:18.956 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 931176
 2025-12-01 15:05:19.047 [INFO] (save_parquet:171) → Saved 942 rows to data/processed/user_profiles.parquet
 2025-12-01 15:05:19.048 [INFO] (main:214) → Pipeline complete.
+2025-12-25 20:37:54.224 [WARNING] (save_parquet:167) → No data to save to data/processed/user_profiles.parquet
+2025-12-25 20:37:54.225 [INFO] (main:216) → Pipeline complete.
+2025-12-25 20:42:53.174 [WARNING] (save_parquet:167) → No data to save to data/processed/user_profiles.parquet
+2025-12-25 20:42:53.174 [INFO] (main:215) → Pipeline complete.
+2025-12-25 20:44:37.999 [WARNING] (save_parquet:167) → No data to save to data/processed/user_profiles.parquet
+2025-12-25 20:44:38.000 [INFO] (main:216) → Pipeline complete.
+2025-12-25 20:44:55.431 [WARNING] (save_parquet:167) → No data to save to data/processed/user_profiles.parquet
+2025-12-25 20:44:55.431 [INFO] (main:216) → Pipeline complete.
+2025-12-25 21:16:12.672 [WARNING] (save_parquet:167) → No data to save to data/processed/user_profiles.parquet
+2025-12-25 21:16:12.673 [INFO] (main:216) → Pipeline complete.
+2025-12-25 21:16:32.703 [WARNING] (save_parquet:167) → No data to save to data/processed/user_profiles.parquet
+2025-12-25 21:16:32.703 [INFO] (main:215) → Pipeline complete.
+2025-12-25 21:34:55.785 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 260094
+2025-12-25 21:34:56.501 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 1246594
+2025-12-25 21:34:57.018 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 357237
+2025-12-25 21:34:57.640 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 143207
+2025-12-25 21:34:58.168 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 1387134
+2025-12-25 21:34:58.864 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 141036
+2025-12-25 21:34:59.371 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 87804
+2025-12-25 21:34:59.983 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 1577674
+2025-12-25 21:35:00.494 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 458607
+2025-12-25 21:35:01.009 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 33420
+2025-12-25 21:35:01.620 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 682451
+2025-12-25 21:35:02.133 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 1466406
+2025-12-25 21:35:02.605 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 951417
+2025-12-25 21:35:03.053 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 1762544
+2025-12-25 21:35:03.567 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 799295
+2025-12-25 21:35:04.080 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 91488
+2025-12-25 21:35:04.752 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 625945
+2025-12-25 21:35:05.316 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 480556
+2025-12-25 21:35:05.819 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 768975
+2025-12-25 21:35:06.741 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 277204
+2025-12-25 21:35:07.253 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 512308
+2025-12-25 21:35:07.894 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 532274
+2025-12-25 21:35:08.496 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 148108
+2025-12-25 21:35:09.097 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 905477
+2025-12-25 21:35:09.710 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 34410
+2025-12-25 21:35:10.331 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 94975
+2025-12-25 21:35:10.861 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 298172
+2025-12-25 21:35:11.350 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 1035138
+2025-12-25 21:35:11.891 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 652921
+2025-12-25 21:35:12.483 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 150393
+2025-12-25 21:35:12.881 [WARNING] (get:114) → 429 Too Many Requests on https://labs.hackthebox.com/api/v4/profile/progress/challenges/1089774. Retrying in 43s…
+2025-12-25 21:35:56.580 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 1089774
+2025-12-25 21:35:57.122 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 634163
+2025-12-25 21:35:57.736 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 377742
+2025-12-25 21:35:58.257 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 189926
+2025-12-25 21:35:58.778 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 1062321
+2025-12-25 21:35:59.273 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 1704836
+2025-12-25 21:35:59.786 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 1094941
+2025-12-25 21:36:00.298 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 1137329
+2025-12-25 21:36:00.878 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 13569
+2025-12-25 21:36:01.422 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 1204261
+2025-12-25 21:36:02.037 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 9267
+2025-12-25 21:36:02.651 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 637320
+2025-12-25 21:36:03.164 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 52045
+2025-12-25 21:36:03.674 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 16690
+2025-12-25 21:36:04.189 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 89875
+2025-12-25 21:36:04.802 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 69650
+2025-12-25 21:36:05.259 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 87851
+2025-12-25 21:36:05.835 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 222411
+2025-12-25 21:36:06.339 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 610173
+2025-12-25 21:36:06.955 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 367970
+2025-12-25 21:36:07.477 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 270601
+2025-12-25 21:36:07.977 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 23792
+2025-12-25 21:36:08.385 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 14529
+2025-12-25 21:36:08.794 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 481778
+2025-12-25 21:36:09.308 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 219091
+2025-12-25 21:36:09.727 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 340181
+2025-12-25 21:36:10.229 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 12057
+2025-12-25 21:36:10.638 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 32882
+2025-12-25 21:36:11.151 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 2134
+2025-12-25 21:36:11.662 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 21717
+2025-12-25 21:36:12.071 [WARNING] (get:114) → 429 Too Many Requests on https://labs.hackthebox.com/api/v4/profile/progress/challenges/119497. Retrying in 45s…
+2025-12-25 21:36:57.641 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 119497
+2025-12-25 21:36:58.152 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 92694
+2025-12-25 21:36:58.665 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 93756
+2025-12-25 21:36:59.178 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 88403
+2025-12-25 21:36:59.688 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 246314
+2025-12-25 21:37:00.107 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 107492
+2025-12-25 21:37:00.712 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 195196
+2025-12-25 21:37:01.122 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 2761
+2025-12-25 21:37:01.637 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 8781
+2025-12-25 21:37:02.146 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 120749
+2025-12-25 21:37:02.566 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 201940
+2025-12-25 21:37:03.375 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 310878
+2025-12-25 21:37:03.887 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 495935
+2025-12-25 21:37:04.532 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 83743
+2025-12-25 21:37:05.218 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 84315
+2025-12-25 21:37:05.833 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 721418
+2025-12-25 21:37:06.344 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 1086633
+2025-12-25 21:37:06.871 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 2302404
+2025-12-25 21:37:07.473 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 1041236
+2025-12-25 21:37:08.085 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 463126
+2025-12-25 21:37:08.802 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 573430
+2025-12-25 21:37:09.224 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 1698628
+2025-12-25 21:37:09.625 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 1600618
+2025-12-25 21:37:10.133 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 53065
+2025-12-25 21:37:10.645 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 986192
+2025-12-25 21:37:11.260 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 1774074
+2025-12-25 21:37:11.669 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 855535
+2025-12-25 21:37:12.183 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 1367389
+2025-12-25 21:37:12.694 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 296137
+2025-12-25 21:37:13.206 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 185448
+2025-12-25 21:37:13.617 [WARNING] (get:114) → 429 Too Many Requests on https://labs.hackthebox.com/api/v4/profile/progress/challenges/2199652. Retrying in 44s…
+2025-12-25 21:37:58.159 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 2199652
+2025-12-25 21:37:58.671 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 1733907
+2025-12-25 21:37:59.285 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 58052
+2025-12-25 21:37:59.797 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 121121
+2025-12-25 21:38:00.208 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 1763788
+2025-12-25 21:38:00.617 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 216556
+2025-12-25 21:38:01.129 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 1779234
+2025-12-25 21:38:01.537 [WARNING] (get:122) → https://labs.hackthebox.com/api/v4/profile/progress/challenges/1191943 failed (attempt 1) → HTTPStatusError("Client error '404 Not Found' for url 'https://labs.hackthebox.com/api/v4/profile/progress/challenges/1191943'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"). Retrying in 1.0s
+2025-12-25 21:38:03.074 [WARNING] (get:122) → https://labs.hackthebox.com/api/v4/profile/progress/challenges/1191943 failed (attempt 2) → HTTPStatusError("Client error '404 Not Found' for url 'https://labs.hackthebox.com/api/v4/profile/progress/challenges/1191943'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"). Retrying in 2.0s
+2025-12-25 21:38:05.429 [WARNING] (get:122) → https://labs.hackthebox.com/api/v4/profile/progress/challenges/1191943 failed (attempt 3) → HTTPStatusError("Client error '404 Not Found' for url 'https://labs.hackthebox.com/api/v4/profile/progress/challenges/1191943'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"). Retrying in 4.0s
+2025-12-25 21:38:09.831 [WARNING] (get:122) → https://labs.hackthebox.com/api/v4/profile/progress/challenges/1191943 failed (attempt 4) → HTTPStatusError("Client error '404 Not Found' for url 'https://labs.hackthebox.com/api/v4/profile/progress/challenges/1191943'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"). Retrying in 8.0s
+2025-12-25 21:38:18.332 [WARNING] (get:122) → https://labs.hackthebox.com/api/v4/profile/progress/challenges/1191943 failed (attempt 5) → HTTPStatusError("Client error '404 Not Found' for url 'https://labs.hackthebox.com/api/v4/profile/progress/challenges/1191943'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"). Retrying in 16.0s
+2025-12-25 21:38:34.349 [ERROR] (get:124) → Giving up on https://labs.hackthebox.com/api/v4/profile/progress/challenges/1191943 after 5 attempts → HTTPStatusError("Client error '404 Not Found' for url 'https://labs.hackthebox.com/api/v4/profile/progress/challenges/1191943'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404")
+2025-12-25 21:38:34.822 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 1308812
+2025-12-25 21:38:35.330 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 446041
+2025-12-25 21:38:35.842 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 2203473
+2025-12-25 21:38:36.252 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 1961104
+2025-12-25 21:38:36.667 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 1738756
+2025-12-25 21:38:37.173 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 210317
+2025-12-25 21:38:37.625 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 242773
+2025-12-25 21:38:38.094 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 1529749
+2025-12-25 21:38:38.503 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 1687030
+2025-12-25 21:38:39.018 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 19751
+2025-12-25 21:38:39.632 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 440818
+2025-12-25 21:38:40.043 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 1617044
+2025-12-25 21:38:40.450 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 802825
+2025-12-25 21:38:40.859 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 983203
+2025-12-25 21:38:41.268 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 998019
+2025-12-25 21:38:41.681 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 56644
+2025-12-25 21:38:42.109 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 765207
+2025-12-25 21:38:42.600 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 2128889
+2025-12-25 21:38:43.015 [WARNING] (get:114) → 429 Too Many Requests on https://labs.hackthebox.com/api/v4/profile/progress/challenges/598684. Retrying in 15s…
+2025-12-25 21:38:58.576 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 598684
+2025-12-25 21:38:59.087 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 620838
+2025-12-25 21:38:59.600 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 1547634
+2025-12-25 21:39:00.112 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 1552704
+2025-12-25 21:39:00.623 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 2074300
+2025-12-25 21:39:01.136 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 990600
+2025-12-25 21:39:01.545 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 2145123
+2025-12-25 21:39:02.057 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 525177
+2025-12-25 21:39:02.569 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 2125500
+2025-12-25 21:39:02.982 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 1849700
+2025-12-25 21:39:03.491 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 756336
+2025-12-25 21:39:03.903 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 129104
+2025-12-25 21:39:04.413 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 774057
+2025-12-25 21:39:04.928 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 938193
+2025-12-25 21:39:05.349 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 2266493
+2025-12-25 21:39:05.951 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 1537717
+2025-12-25 21:39:06.358 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 1728309
+2025-12-25 21:39:06.768 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 2070683
+2025-12-25 21:39:07.177 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 1581272
+2025-12-25 21:39:07.593 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 609811
+2025-12-25 21:39:08.007 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 770905
+2025-12-25 21:39:08.508 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 2386483
+2025-12-25 21:39:08.921 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 1968666
+2025-12-25 21:39:09.328 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 46929
+2025-12-25 21:39:09.739 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 1054724
+2025-12-25 21:39:10.146 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 2263532
+2025-12-25 21:39:10.658 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 2393588
+2025-12-25 21:39:11.171 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 2398181
+2025-12-25 21:39:11.684 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 9733
+2025-12-25 21:39:12.092 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 1517607
+2025-12-25 21:39:12.501 [WARNING] (get:114) → 429 Too Many Requests on https://labs.hackthebox.com/api/v4/profile/progress/challenges/228536. Retrying in 46s…
+2025-12-25 21:39:59.096 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 228536
+2025-12-25 21:39:59.504 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 8589
+2025-12-25 21:39:59.965 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 292468
+2025-12-25 21:40:00.530 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 2070259
+2025-12-25 21:40:01.040 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 2087281
+2025-12-25 21:40:01.466 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 1980274
+2025-12-25 21:40:01.862 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 1763772
+2025-12-25 21:40:02.371 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 1448044
+2025-12-25 21:40:02.884 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 2085969
+2025-12-25 21:40:03.395 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 2072736
+2025-12-25 21:40:04.012 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 803346
+2025-12-25 21:40:04.521 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 355257
+2025-12-25 21:40:05.033 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 1534609
+2025-12-25 21:40:05.545 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 2307246
+2025-12-25 21:40:06.056 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 637783
+2025-12-25 21:40:06.569 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 2019686
+2025-12-25 21:40:07.081 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 434596
+2025-12-25 21:40:07.593 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 1630957
+2025-12-25 21:40:08.107 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 426624
+2025-12-25 21:40:08.618 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 1645624
+2025-12-25 21:40:09.128 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 1908954
+2025-12-25 21:40:09.540 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 255844
+2025-12-25 21:40:09.957 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 469161
+2025-12-25 21:40:10.327 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 1045708
+2025-12-25 21:40:10.717 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 2051894
+2025-12-25 21:40:11.177 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 1995980
+2025-12-25 21:40:11.586 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 854155
+2025-12-25 21:40:12.000 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 1640721
+2025-12-25 21:40:12.416 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 2384849
+2025-12-25 21:40:12.816 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 239669
+2025-12-25 21:40:13.225 [WARNING] (get:114) → 429 Too Many Requests on https://labs.hackthebox.com/api/v4/profile/progress/challenges/336826. Retrying in 45s…
+2025-12-25 21:40:58.796 [WARNING] (get:114) → 429 Too Many Requests on https://labs.hackthebox.com/api/v4/profile/progress/challenges/336826. Retrying in 0s…
+2025-12-25 21:40:59.307 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 336826
+2025-12-25 21:40:59.925 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 855781
+2025-12-25 21:41:00.330 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 2130153
+2025-12-25 21:41:00.842 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 1335237
+2025-12-25 21:41:01.355 [DEBUG] (fetch_user_profile:158) → Fetched profile for user 1814651
+2025-12-25 21:41:01.415 [INFO] (save_parquet:171) → Saved 180 rows to data/processed/user_profiles.parquet
+2025-12-25 21:41:01.415 [INFO] (main:214) → Pipeline complete.
