@@ -177,6 +177,7 @@ async def main():
     token_mgr = TokenManager(HTB_TOKEN)
     http = AsyncHTTP(token_mgr)
     try:
+        # Uncomment when needed, I did this in multiple stages because it broke frequently because of poor error hangling
         # 1) Teams
         # teams = await fetch_teams(http)
         # (RAW_DIR / "teams.jsonl").write_text('\n'.join(json.dumps(t) for t in teams))
